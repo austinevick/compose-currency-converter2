@@ -23,7 +23,6 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
-import com.austinevick.currencyconverter.data.model.ConversionRates
 import com.austinevick.currencyconverter.data.model.ConversionRatesModel
 
 
